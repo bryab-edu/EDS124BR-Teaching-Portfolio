@@ -18,3 +18,5 @@ C00L freakin portfolio to teach CS. CS is short for CalcS. jk its computer scien
 
 [Watch my Scratch programming explanation (If else)](https://drive.google.com/drive/folders/1A9M4p4YGef9Xv9Z0LeifPo2AFnr3ur2k?usp=sharing)
 
+[Watch my Scratch programming explanation (Nested If/else)](https://drive.google.com/file/d/1qzsbrai6-FV6ubxLeafqSZzHMY8628n_/view?usp=sharing)
+
