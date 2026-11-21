@@ -20,3 +20,4 @@ C00L freakin portfolio to teach CS. CS is short for CalcS. jk its computer scien
 
 [Watch my Scratch programming explanation (Nested If/else)](https://drive.google.com/file/d/1qzsbrai6-FV6ubxLeafqSZzHMY8628n_/view?usp=sharing)
 
+[Watch my Scratch programming explanation (Compound Conditionals)](https://drive.google.com/file/d/1nZYcytwLSyO17ylwekBv-uuXPg1J6EQN/view?usp=sharing)
